@@ -1,0 +1,8 @@
+
+{
+    "name": "javascript-dom-div-color",
+    "main": {
+      "js": "div-color.js",
+      "html":"div-color.html" 
+    }
+}
